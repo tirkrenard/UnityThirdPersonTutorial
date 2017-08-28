@@ -1,2 +1,4 @@
-# UnityThirdPersonTutorial
-Practice with setting up a third person camera in unity
+UnityThirdPersonTutorial
+========================
+
+Sample project showing third person camera behavior and Mecanim animations
